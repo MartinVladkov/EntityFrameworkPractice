@@ -1,0 +1,17 @@
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.json
+D:\Marti\SoftUni\Databases\Entity Framework\Product_Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
